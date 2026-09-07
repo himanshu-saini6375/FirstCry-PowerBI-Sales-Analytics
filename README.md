@@ -90,3 +90,10 @@ Data Analytics | Power BI | SQL | Excel | Data Visualization
 ## ⭐ Project Type
 
 **Data Analytics / Business Intelligence / Power BI Portfolio Project**
+## 📸 Dashboard Preview
+
+### Executive Sales Overview
+![Executive Dashboard](Screenshot%202026-09-06%20191026.png)
+
+### Product & Brand Analysis
+![Product & Brand Analysis](Screenshot%202026-09-06%20191046.png)
